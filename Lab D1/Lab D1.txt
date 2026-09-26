@@ -7,6 +7,7 @@
 <h2>hello</h2>
 <h1>The Brown Bear</h1>
 <p>The brown bear (Ursus arctos) is one of the largest and most widely distributed land-based carnivorans in the world. Renowned for its immense strength and prominent shoulder hump, this majestic mammal inhabits the dense forests and mountains of North America, Europe, and Asia.</p>
+<p>this paragraph is for a lab activity</p>
 <a href="https://riyadhzoo.ncw.gov.sa/arabic/biodiversity/brown-bear/">Learn More!</a>
 <h4>Here are some bear species:</h4>
 <ul>
